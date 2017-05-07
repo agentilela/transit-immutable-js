@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/glenjamin/transit-immutable-js",
   "peerDependencies": {
-    "immutable": ">= 3",
+    "immutable": "4.0.0-rc.2",
     "transit-js": ">= 0.8"
   },
   "devDependencies": {
